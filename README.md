@@ -15,7 +15,7 @@ Download all files in the web package and save into the root file for localhost.
 ### Prerequisites
 
 ```
-LAMP stack, Perl files.
+LAMP (Linux, Apache, MySQL, PHP)
 ```
 
 ## Built With
