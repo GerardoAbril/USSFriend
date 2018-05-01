@@ -1,4 +1,4 @@
-# Portable Network Monitoring
+# Portable Network Monitoring (U.S.S. Friend)
 Our system allows for network monitoring by:
 
 * Reading packets into a database and display it into a viewer-friendly website.
@@ -10,7 +10,8 @@ Our system allows for network monitoring by:
 
 ## Getting Started
 
-Download all files in the web package and save into the root file for localhost. (This is where index.html can ususally be found)
+Download all files in the web package (/var/www/html) and save into the root file for localhost.
+Run Perl file from terminal.
 
 ### Prerequisites
 
