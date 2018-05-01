@@ -21,7 +21,6 @@ LAMP (Linux, Apache, MySQL, PHP)
 
 ## Built With
 
-* [Apache](https://apache.org/) - Local Server
 * [ATOM](https://github.com/atom) - Text editor
 
 ## Contributing
