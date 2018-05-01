@@ -2,11 +2,11 @@
 Our system allows for network monitoring by:
 
 * Reading packets into a database and display it into a viewer-friendly website.
-* Querying results
 * Displaying default information to client
 * Displaing the cross-listed database with second database of blocklisted IP addresses
 * Flagging specific IP addresses on the network that may be hostile
 * Providing remote database management
+* Querying results
 
 ## Getting Started
 
