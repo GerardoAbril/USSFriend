@@ -1,11 +1,12 @@
 # Portable Network Monitoring
-* Reads packets into a database and display it into a viewer-friendly website.
-* Added functionality to query the results
-* Default information to client
-* Cross-listed database with second database of blocklisted IP addresses
-* Flags specific IP addresses on the network that may be hostile
-* Remote database management
-* Web package that runs on a LAMP stack.
+Our system allows for network monitoring by:
+
+* Reading packets into a database and display it into a viewer-friendly website.
+* Querying results
+* Displaying default information to client
+* Displaing the cross-listed database with second database of blocklisted IP addresses
+* Flagging specific IP addresses on the network that may be hostile
+* Providing remote database management
 
 ## Getting Started
 
