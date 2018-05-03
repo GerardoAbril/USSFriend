@@ -30,7 +30,9 @@ Connect the 2.0 ethernet adapter to the internet to be able to remotely access t
 ### Prerequisites
 
 Install Xenial on the Rock64.
+
 Recommend using Etcher (https://etcher.io)
+
 *Direct download for Xenial Mate Build Image (http://wiki.pine64.org/index.php/ROCK64_Software_Release#Xenial_Mate)*
 
 
