@@ -2,9 +2,9 @@
 
 The backend for the portable network monitoring system.
 
-## Contributing
+To use this, either ensure your mysql admin username is `root` and your mysql admin password is `rock64`, or change the corresponding lines of code in the Perl scripts to be accurate to your mysql admin credentials.  
 
-Please read [CONTRIBUTING.md] in the root folder for details on our code of conduct, and the process for submitting pull requests to us.
+Blocklist.pl should run automatically; however, packcap.pl must be run for each ethernet port that will be sniffed after the ports are properly assigned IP addresses.
 
 ## Authors
 
